@@ -1,8 +1,8 @@
 
 provider "aws" {
 	region = "ap-south-1"
-	access_key = "AKIAQHZUMK3N6WZ25NHX"
-  secret_key = "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"
+	access_key = ""
+  secret_key = ""
 }
 
 provider "kubernetes" {
